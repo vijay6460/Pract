@@ -1,0 +1,37 @@
+p{
+    /* text-align: right; */
+    /* text-align: center; */
+    /* text-align: left; */
+    /* justify-content: justify; */
+    /* text-align: justify; */
+    /* text-decoration: overline; */
+    /* text-decoration: underline; */
+    /* text-decoration:line-through; */
+    /* text-decoration: none;(default value used for the anchot tags) */
+text-align: left;
+/* text-indent: 10%;(giving some space) */
+line-height: 2;
+letter-spacing:2px;
+word-spacing: 5px;
+text-transform: uppercase;
+text-transform: capitalize;
+/* text-transform: inherit; */
+}
+
+/* a{
+    text-decoration: none;
+    color: black;
+    cursor:pointer;
+} */
+
+body{
+    background-image: url(https://imageio.forbes.com/specials-images/imageserve/5d35eacaf1176b0008974b54/0x0.jpg?format=jpg&crop=4560,2565,x790,y784,safe&fit=crop);}
+
+
+
+
+
+
+
+
+
